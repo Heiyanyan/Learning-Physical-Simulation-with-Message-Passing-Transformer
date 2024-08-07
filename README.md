@@ -1,1 +1,1 @@
-We modified it based on the GitHub project https://github.com/echowve/meshGraphNets_pytorch?tab=readme-ov-file#sample-usage. Usage also refer to https://github.com/echowve/meshGraphNets_pytorch?tab=readme-ov-file#sample-usage
+We modified our project based on the GitHub project https://github.com/echowve/meshGraphNets_pytorch?tab=readme-ov-file#sample-usage. Usage also refer to https://github.com/echowve/meshGraphNets_pytorch?tab=readme-ov-file#sample-usage
